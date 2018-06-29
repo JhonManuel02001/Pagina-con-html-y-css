@@ -1,0 +1,7 @@
+ body{background-image: url('../imagenes/816498539_preview_swordandsworcery.jpg'); background-attachment: fixed;}
+     #mititulo{color: #fff; text-align: justify; font-family: arial, Time New romans;}
+     #recuadro{margin: 5% 10% 5% 10%; border: 1px solid #ccc; background-image: url('../imagenes/sonajhin.jpg'); padding: 0 10px 10px 10px;}
+     #iframe-header{width: 100%; border: 0; margin: 0; height: 80px;}
+     #iframe-footer{width: 100%; border: 0; margin: 0; height: 300px;}
+     .registrese{color: #fff;}
+     .divregistrese{color: #fff;}

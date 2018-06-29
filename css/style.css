@@ -1,0 +1,69 @@
+    body{background-image: url('../imagenes/816498539_preview_swordandsworcery.jpg'); background-attachment: fixed;}
+    h1{color: #fff; text-align: center;}
+	h2{color: #fff; text-align: center;}
+	h3{color: #AEB2C4; font-size: 18px;}
+	p{color: #21E3D1; font-size: 18px; text-align: center;}
+	#margen{margin: 0 30px 10px 30px}
+	.Spans1{color: #0059FF; font-family: Time New Romans, castellar;}
+	.menu{color: #3BF604; font-size: 24px}
+	.tdh2{color: #FF0000; font-family: Elephant;}
+	.pagianmenus{font-size: 24px; color: #FF0000;}
+	.principalimg{width: 40%;}
+
+	/* acerca de nosotros */
+
+	
+	a{color: #ff0000; text-align: justify;}
+	.ancla1{color: #0059FF; font-family: Time New Romans, castellar}
+
+   /* mision */
+
+   #mititulo2{color: #0059FF; font-family: Time New Romans, castellar;}
+
+	/* quienes somos */
+
+    #menu{color: #ff0000}
+    #food{width: 4px; background-color: #ccc; height:20px;}
+
+    /* tabla de precios */
+
+    table{width: 600px;}
+	thead{text-align: left; color: #00FFFF; font-size: 22px}
+	tbody{color: #0BD3F7; text-align: justify;}
+	.numeros{color: #0CE82D}
+	.imagenes{width: 40%; height: 40%; margin: 0 auto;}
+	.centrar{text-align: center;}
+	#thor{margin: 0 auto;}
+
+	/* vision */
+
+	#mititulo{color: #0059FF; font-family: Time New Romans, castellar;}
+
+	/* Header */
+
+	#iframe-header{width: 100%; border: 0; margin: 0; height: 80px;}
+
+
+	/*Footer*/
+
+	#iframe-footer{width: 100%; border: 0; margin: 0; height: 300px;}
+
+	/*pagina de juegos*/
+
+	.imagenes{width: 35%; height: 50%;}
+
+	/*emuladores*/
+
+	.imagenes2{width: 30%; height: 53%;}
+
+
+
+
+ 
+
+
+   
+
+
+
+   
